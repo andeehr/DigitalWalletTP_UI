@@ -1,4 +1,4 @@
-# DigitalWallet TP Construcción de Interfaces de Usuario (2019)
+# DigitalWallet TP Construcción de Interfaces de Usuario - Universidad Nacional de Quilmes (2019)
 
 ##### Este tp simula el frontend de una billetera virtual y cuenta con 3 proyectos:
 
